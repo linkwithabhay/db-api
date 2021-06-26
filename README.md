@@ -1,2 +1,2 @@
 # mongodb-api
-Deliver MongoDB data to your App through an API server.
+Deliver your database to your App through an API server.

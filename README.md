@@ -1,2 +1,3 @@
-# mongodb-api
-Deliver your Database to your App through an API server.
+# db-api
+
+Deliver your SQL and NoSQL Databases integrated to your App through an API server.
